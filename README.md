@@ -1,9 +1,10 @@
 # mageOfStructs
 
 - hobby programmer since 2021/22
-- I have a tendency to write stuff myself instead of looking for some library, so expect that in many of my hobby projects.
-- I use arch btw
+- has a tendency to write stuff himself instead of looking for some library
 - FOSS will save computing, screw planned obsolescence
+
+![Static Badge](https://img.shields.io/badge/Archlinux-%233178C6?style=flat&logo=linux&logoColor=white) (I use arch btw)
 
 ## Some of the languages I'm familiar with:
 ![C Badge](https://img.shields.io/badge/lang-blue?style=for-the-badge&logo=C)
